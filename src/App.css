@@ -1,0 +1,13 @@
+nav{display: flex;
+    justify-content: space-around;
+    background-color: rgb(66, 66, 148);
+
+}
+li{list-style: none;
+color: aliceblue;
+font-size: 25px;}
+li:hover{color: rgb(43, 35, 35);
+cursor: pointer;}
+#card{margin: 50px;
+color: red;}
+button{margin: 20px;}
